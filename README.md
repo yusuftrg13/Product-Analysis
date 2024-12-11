@@ -83,3 +83,6 @@ This project aims to derive valuable insights from customer data to support busi
 
 
 ![Ekran görüntüsü 2024-12-10 161655](https://github.com/user-attachments/assets/e388afc5-079b-4ded-91f5-cf45114d8cbc)
+![Ekran görüntüsü 2024-12-11 095622](https://github.com/user-attachments/assets/65503665-f09b-4d5a-97d9-5f90cb08ab30)
+
+
